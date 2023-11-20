@@ -19,7 +19,7 @@ int main()
     cin >> regNo;
     cout << "Here is your reg no " << regNo << endl;
 
-    bool isMember = false;
+    bool isMember = false
 
     for (int i = 0; i < rows; ++i)
     {
